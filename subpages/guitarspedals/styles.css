@@ -121,7 +121,7 @@ img.el-image{
 }
 main{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 #pick {
     width: 30%;
