@@ -119,13 +119,8 @@ img.el-image{
     height: auto;
     padding: 0;
 }
-main > a > img {
-    padding: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    width: calc(100% - 20px);
-    height: auto;
-    position: relative;
+main{
+    display: flex;
 }
 #pick {
     width: 30%;
