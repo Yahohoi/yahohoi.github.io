@@ -103,6 +103,14 @@ header {
     align-items: center;
     padding: 0;
 }
+.guitar-block {
+    width: 30%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
 img.el-image{
     width: 30%;
     height: auto;
