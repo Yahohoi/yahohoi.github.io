@@ -103,7 +103,7 @@ header {
     align-items: center;
     padding: 0;
 }
-.el-image{
+img.el-image{
     width: 30%;
     height: auto;
     padding: 0;
