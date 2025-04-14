@@ -103,6 +103,11 @@ header {
     align-items: center;
     padding: 0;
 }
+.el-image{
+    width: 30%;
+    height: auto;
+    padding: 0;
+}
 main > a > img {
     padding: 10px;
     padding-left: 10px;
