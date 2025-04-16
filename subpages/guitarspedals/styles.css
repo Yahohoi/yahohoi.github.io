@@ -103,7 +103,7 @@ header {
     align-items: center;
     padding: 0;
 }
-.guitar-block {
+.guitar-block-0,.guitar-block-1{
     aspect-ratio: 1/1;
     width: 30%;
     height: auto;
@@ -116,7 +116,7 @@ header {
     align-items: center;
     margin: 10px;
 }
-img.el-image{
+.el-image-0,.el-image-1{
     width: 50%;
     height: auto;
     padding: 0;
@@ -129,7 +129,7 @@ main{
     width: 30%;
     height: auto;
 }
-.product-image{
+.product-image1{
     width:40%;
     height: auto;
     padding: 10px;
