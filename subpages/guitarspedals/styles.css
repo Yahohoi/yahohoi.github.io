@@ -110,6 +110,8 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-decoration: none;
+    color: #ffffff;
     background-color: #353535;
     align-items: center;
     margin: 10px;
