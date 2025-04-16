@@ -2,7 +2,7 @@ body {
     margin: 0px;
     padding: 0;
     font-family: 'Noto Sans JP', sans-serif;
-    background-color: #b4b4b4;
+    background-color: #ffffff;
     color: #000000;
 }
 header {
@@ -128,4 +128,9 @@ main{
 #pick {
     width: 30%;
     height: auto;
+}
+.product-image{
+    width:40%;
+    height: auto;
+    padding: 10px;
 }
